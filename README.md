@@ -1,4 +1,4 @@
-#PythonProjects
+# PythonProjects
 
 With help of LLM I got a list of projects that I will try to develop.
 Hope to reach the end with sufficient knowledge to make anything :)
